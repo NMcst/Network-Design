@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-In this project I colaborated with a team of 4 and developed a network topology in Cisco Packet Tracer.
+In this project I collaborated with a team of 4 and developed a network topology in Cisco Packet Tracer.
 
 ## Topology
 The topology that we came up with was a hybrid topology. It is a network structure that combines two or more different types of topology. In our case it is a combination of series of star topologies with an incorporation of a bus topology. 
@@ -17,7 +17,7 @@ For this project I was responsible for applying firewalls and extended ACLs to a
 
 ![image](https://github.com/user-attachments/assets/ca2fe15c-3478-4a40-bffb-28c8a8530f50)
 
-I also configured and encrpyted the AAA/RAIDUS authentication server. All the username and password are stored in the server so that is why encrypted the server and only authorized personnel can access the server for configuration.
+I also configured and encrpyted the AAA/RAIDUS authentication server. All the username and password are stored in this server so that is why encrypted the server and only authorized personnel can access the server for configuration.
 
 ![image](https://github.com/user-attachments/assets/5d38b382-f7a9-49e1-a75e-a07762a3a76c)
 
