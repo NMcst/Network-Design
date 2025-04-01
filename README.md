@@ -1,7 +1,7 @@
 # Network Design
 
 
-## Project Overview
+## Project description
 In this project, I collaborated with a team of 4 and developed a network topology in Cisco Packet Tracer. The main goal was to create a working topology with a **80 to 100 PC with the implementation of DHCP, EtherChannel, VLSM, VLAN, WLAN, Network Security & Port Security.**
 
 ## Topology
